@@ -1,4 +1,4 @@
-/*
+/*ÖDEV4:
 Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
 
 - Taksimetre KM başına 2.20 TL tutmaktadır.
