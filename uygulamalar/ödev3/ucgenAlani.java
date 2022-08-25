@@ -1,3 +1,7 @@
+/*
+Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
+*/
+
 package ödev3;
 
 import java.util.Scanner;

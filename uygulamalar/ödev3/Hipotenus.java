@@ -1,3 +1,7 @@
+/*
+Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
+*/
+
 package ödev3;
 
 import java.util.Scanner;
