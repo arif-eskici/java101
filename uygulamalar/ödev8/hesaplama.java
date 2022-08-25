@@ -36,7 +36,7 @@ public class hesaplama {
             case 4:
                 switch (number2){
                     case 0:
-                        System.out.println("Bir sayı 0'a bölünemez!");
+                        System.out.println("Bir sayı 0'a bölünemez!!");
                         break;
                     default:
                         System.out.println("Bölme : " + (number1 / number2));
