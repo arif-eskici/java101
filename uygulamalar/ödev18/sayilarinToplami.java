@@ -6,7 +6,6 @@ package ödev18;
 
 import java.util.Scanner;
 
-import javax.annotation.processing.SupportedSourceVersion;
 public class sayilarinToplami {
     public static void main(String[] args) {
         int number, total = 0;
