@@ -17,7 +17,7 @@ public class ortalama {
             System.out.println("Lütfen 0'dan büyük bir sayı girmeyi deneyin!!");
         }
 
-/* soruda ve / veya ifadesi anlam karmaşası yarattığından her iki duruma göre de çözüm yapıldı */
+/* soruda "ve / veya" ifadesi anlam karmaşası yarattığından her iki duruma göre de çözüm yapıldı */
 
         for (i = 1; i <= k; i++) {
             if (i % 3 == 0 && i % 4 == 0) {
