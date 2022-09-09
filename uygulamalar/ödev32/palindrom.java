@@ -32,6 +32,6 @@ public class palindrom {
     }
 
     public static void main(String[] args) {
-        System.out.println(isPalindrom(4004));
+        System.out.println(isPalindrom(9889));
     }
 }
